@@ -1,0 +1,26 @@
+.categories {
+    color: white;
+    background-color: #232F3E;
+}
+
+.categories_1 {
+    display: flex;
+    padding: 4px 14px;
+}
+
+.categories_1>a {
+    color: white;
+    text-decoration: none;
+    border: 1px solid #232F3E;
+    border-radius: 3px;
+    padding: 3px 6px;
+    font-size: 14px;
+}
+
+.categories_1>a:hover {
+    border: 1px solid white;
+}
+
+.all {
+    display: flex;
+}
